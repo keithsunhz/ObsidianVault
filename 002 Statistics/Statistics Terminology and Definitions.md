@@ -1,0 +1,8 @@
+- unit/subject - each individual person which data is collected on
+- [[Variables]] - data points we are collecting
+- population - group of interest for the study
+- sample - subset of people to study
+- (Population) parameter - the true population difference rate in the studied parameter
+- (Sample) statistic - sample difference rate in the studied population
+- external validity - can result be generalized to other populations?
+- internal validity - are our estimates biased?

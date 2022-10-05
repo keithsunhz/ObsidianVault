@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1b832fdbf71bb576",
+    "type": "split",
+    "children": [
+      {
+        "id": "be95186bc617f214",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO (conflict 2022-09-13-11-35-54).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a851683d8a9c67c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dbe6e661b3dfd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab5dcfd665f16ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "33d644fdf9304eee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7edc77fb2bb8cf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80a4364356fb5f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8639e3f88ed283dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO (conflict 2022-09-13-11-35-54).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be95186bc617f214",
+  "lastOpenFiles": [
+    "TODO.md",
+    "TODO (conflict 2022-09-13-11-35-54).md",
+    "Untitled.md",
+    "BABY ESSENTIALS.md",
+    "Recipes/Kimchi.md",
+    "000 Gastroenterology/Nonalcoholic Fatty Liver Disease.md",
+    "Primary Biliary Cholangitis (PBC).md",
+    "SCRATCHPAD.md",
+    "BOOKMARKS.md",
+    "002 Statistics/Regression Analysis.md"
+  ]
+}
